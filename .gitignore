@@ -1,0 +1,5 @@
+.DS_Store
+csharp/sample_app/.DS_Store
+csharp/sample_app/bin/*
+*.dll
+csharp/sample_app/obj/*
