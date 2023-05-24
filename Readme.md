@@ -25,6 +25,7 @@ steps
     add routes (eg. account API- open account, get account)
     add controllers (you could also demo TDD at this point)
     add models
+    add views
     add data-access (eg. sqlite or mongo)
     authentication (login, logout)
     authorization (eg. restrict account to owner and account manager)
